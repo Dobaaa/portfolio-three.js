@@ -204,7 +204,7 @@ const projects = [
   {
     name: "Pentola",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Pizza kitchen  platform that allows users to order, know, and manage  their favurite food ",
     tags: [
       {
         name: "ReactJS",
